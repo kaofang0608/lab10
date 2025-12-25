@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mookandaphrompaet/compro/lab10/output/lab10_1'
+relocations:     []
+...
